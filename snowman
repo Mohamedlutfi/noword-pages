@@ -27,7 +27,7 @@
 </head>
 <body>
   <h1>Your word is:</h1>
-  <img src="snowman.webp" alt="Snowman">
+  <img src="snowman.jpg" alt="Snowman">
   <h1>Snow Man</h1>
   <p>Mime this word without speaking.</p>
 </body>
